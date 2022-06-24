@@ -1,0 +1,23 @@
+.todo-header {
+	display: flex;
+	align-items: center;
+	border-bottom: 2px solid rgba(197, 197, 197, 0.299);
+}
+
+.new-todo {
+	margin-left: 15px;
+}
+
+.search-todo {
+	position: relative;
+	width: 80%;
+	font-size: 24px;
+	font-family: inherit;
+	font-weight: inherit;
+	line-height: 1.4em;
+	border: 0;
+	box-sizing: border-box;
+	padding: 16px 16px 16px 26px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
